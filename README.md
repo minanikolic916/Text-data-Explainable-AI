@@ -5,7 +5,6 @@ Welcome to my Text data Explainable AI project repository! This project aims to 
 ## :sparkles: Project Overview
 The goal of the project is to implement a XAI pipeline in order to demystify decision made by various LLMs in the field of text classification. 
 
-In this project, 
 ### :hammer_and_wrench: Technologies Used
 
 - Python 
